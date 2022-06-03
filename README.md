@@ -31,7 +31,7 @@ With the below prerequisites:
 # Project On Global Superstore Data(SalesInsights Analystics)
 
 Here I have performed, Data wrangling, Data Visualization.
-I have taken raw excel data and converted it into a beautiful dashboard which makes it easier to understand the global sales trends.
+I have taken raw excel data and converted it into a beautiful dashboard using Microsoft Power BI which makes it easier to understand the global sales trends.
 
 # Project On SalesInsights Data Visualization
 Here I have taken raw excel data and performed Data Visualization by using Microsoft Excel and created an Interactive Dashboard.
