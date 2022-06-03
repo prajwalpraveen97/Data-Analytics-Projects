@@ -1,5 +1,5 @@
 # Data-Analytics-Projects
-I have created this portfolio with my knowledge on Data Analytics using Python, SQL and Microsoft Power BI
+I have created this portfolio with my knowledge on Data Analytics using Python, SQL, Microsoft Excel and Microsoft Power BI.
 
 # Project On 911 Call Kaggle Data
 
@@ -32,3 +32,6 @@ With the below prerequisites:
 
 Here I have performed, Data wrangling, Data Visualization.
 I have taken raw excel data and converted it into a beautiful dashboard which makes it easier to understand the global sales trends.
+
+# Project On SalesInsights Data Visualization
+Here I have taken raw excel data and performed Data Visualization by using Microsoft Excel and created an Interactive Dashboard.
